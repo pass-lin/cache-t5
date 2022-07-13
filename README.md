@@ -1,7 +1,7 @@
 # 基于bert4keras和mt5模型的cache实现  
 cacheT5.py是其底层实现  
 demo.py是一个简单的演示demo  
-https://zhuanlan.zhihu.com/p/75796168关于cache技术的介绍  
+https://zhuanlan.zhihu.com/p/75796168 关于cache技术的介绍  
 总体来说cache是一种无损的提速方法，这个仓库主要开源我通过bert4keras实现的mt5版cache  
 
 # 性能演示  
