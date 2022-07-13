@@ -7,7 +7,7 @@ https://zhuanlan.zhihu.com/p/75796168关于cache技术的介绍
 # 性能演示  
 测试环境是1660gpu和i5-9400Fcpu  
 cpu环境下512-512的输入输出  
-整体性能提升了四倍左右
+整体性能提升了四倍左右  
 ![R@Q_IV}H8MJA584_`KG1EPJ](https://user-images.githubusercontent.com/62837036/178694163-fce79628-1984-40ae-b2d8-d142cdf6e817.png)  
 
 gpu环境下512-512的输入输出    
